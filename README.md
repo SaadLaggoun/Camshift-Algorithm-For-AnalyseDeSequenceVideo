@@ -1,4 +1,4 @@
-A class assignement about implementing an Object Movement detection algorithm of choice, I've picked the Camshift algorithm.
+A class assignement about implementing an Object tracking algorithm of choice, I've picked the Camshift algorithm.
 
 This algorithm is a superset of the Meanshift algorithm. It came to light at the year of 1998 by Gary R and Bradski. The Meanshift algorithm was very limited in terms of object tracking capabilities, it struggled with rotation and orientation. That’s why the authors Gary R and Bradski created the Camshift algorithm, to supplement the Meanshift algorithm with enough functionality to surpass its problems.
 
